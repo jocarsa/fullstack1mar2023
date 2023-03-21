@@ -1,0 +1,15 @@
+/* Reinicio los estilos por defecto */
+*{
+    padding:0px;
+    margin:0px;
+    font-family:sans-serif;
+}
+body{
+    background:rgb(220,220,220);
+}
+header,main,footer{
+    background:white;
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
