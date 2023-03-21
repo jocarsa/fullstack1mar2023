@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.1089995"
-     inkscape:cx="170.69705"
-     inkscape:cy="242.76914"
+     inkscape:cx="303.93558"
+     inkscape:cy="242.29498"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -203,7 +203,7 @@
          id="tspan5788"
          style="fill:#ffffff;stroke-width:5.665"
          x="16.685438"
-         y="91.421776">MariaDB</tspan></text>
+         y="91.421776">MySQL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#ffffff;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
@@ -215,5 +215,110 @@
          style="fill:#ffffff;stroke-width:5.665"
          x="44.898724"
          y="97.618042">base de datos</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffff00;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10390"
+       width="51.333546"
+       height="11.674013"
+       x="96.677986"
+       y="55.8871"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="98.105362"
+       y="60.373386"
+       id="text10394"><tspan
+         sodipodi:role="line"
+         id="tspan10392"
+         style="fill:#000000;stroke-width:5.665"
+         x="98.105362"
+         y="60.373386">Aplicación en si misma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="126.31865"
+       y="66.569656"
+       id="text10398"><tspan
+         sodipodi:role="line"
+         id="tspan10396"
+         style="fill:#000000;stroke-width:5.665"
+         x="126.31865"
+         y="66.569656">interactividad</tspan></text>
+    <path
+       style="opacity:1;fill:#ffff00;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.145731,70.612901 H 161.25863"
+       id="path10400" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#000000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="83.815086"
+       y="68.75"
+       id="text10404"><tspan
+         sodipodi:role="line"
+         id="tspan10402"
+         style="fill:#000000;stroke:none;stroke-width:0.465"
+         x="83.815086"
+         y="68.75">front</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#000000;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="83.992508"
+       y="74.516129"
+       id="text10408"><tspan
+         sodipodi:role="line"
+         id="tspan10406"
+         style="fill:#000000;stroke:none;stroke-width:0.465"
+         x="83.992508"
+         y="74.516129">back</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000ff;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10410"
+       width="51.333546"
+       height="11.674013"
+       x="96.677986"
+       y="73.895164"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#ffffff;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="98.105362"
+       y="78.381454"
+       id="text10414"><tspan
+         sodipodi:role="line"
+         id="tspan10412"
+         style="fill:#ffffff;stroke-width:5.665"
+         x="98.105362"
+         y="78.381454">Panel de control</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="126.31865"
+       y="84.577721"
+       id="text10418"><tspan
+         sodipodi:role="line"
+         id="tspan10416"
+         style="fill:#ffffff;stroke-width:5.665"
+         x="126.31865"
+         y="84.577721">programación</tspan></text>
+    <rect
+       style="opacity:1;fill:#008033;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10526"
+       width="22.268162"
+       height="4.7045412"
+       x="26.659063"
+       y="68.372665"
+       ry="2.3522706" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;opacity:1;fill:#008033;stroke:none;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="31.865425"
+       y="71.697205"
+       id="text10530"><tspan
+         sodipodi:role="line"
+         id="tspan10528"
+         style="fill:#ffffff;stroke-width:0.465"
+         x="31.865425"
+         y="71.697205">xml/json</tspan></text>
   </g>
 </svg>
