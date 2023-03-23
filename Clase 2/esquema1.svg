@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1564"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="esquema1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1566"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="601.23294"
+     inkscape:cy="483.64164"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1561">
+    <marker
+       style="overflow:visible"
+       id="marker8672"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8670" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect7678"
+       width="8.9299479"
+       height="36.263081"
+       x="105.99633"
+       y="116.13641"
+       ry="2.6345429" />
+    <rect
+       style="fill:#ff6600;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect788"
+       width="51.333546"
+       height="11.674013"
+       x="112.1436"
+       y="121.92191"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="113.57097"
+       y="126.40819"
+       id="text896"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         style="fill:#000000;stroke-width:5.665"
+         x="113.57097"
+         y="126.40819">productos</tspan></text>
+    <rect
+       style="fill:#008080;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1908"
+       width="51.333546"
+       height="11.674013"
+       x="112.1436"
+       y="109.23643"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="113.57097"
+       y="113.7227"
+       id="text1912"><tspan
+         sodipodi:role="line"
+         id="tspan1910"
+         style="fill:#000000;stroke-width:5.665"
+         x="113.57097"
+         y="113.7227">index</tspan></text>
+    <rect
+       style="fill:#ffff00;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4198"
+       width="51.333546"
+       height="11.674013"
+       x="112.1436"
+       y="134.87352"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="113.57097"
+       y="139.3598"
+       id="text4202"><tspan
+         sodipodi:role="line"
+         id="tspan4200"
+         style="fill:#000000;stroke-width:5.665"
+         x="113.57097"
+         y="139.3598">acercade</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4135"
+       width="51.333546"
+       height="11.674013"
+       x="112.1436"
+       y="148.09126"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="113.57097"
+       y="152.57755"
+       id="text4139"><tspan
+         sodipodi:role="line"
+         id="tspan4137"
+         style="fill:#000000;stroke-width:5.665"
+         x="113.57097"
+         y="152.57755">contacto</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4135-4"
+       width="51.333546"
+       height="11.674013"
+       x="41.575161"
+       y="127.75977"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="43.002529"
+       y="132.24605"
+       id="text4139-4"><tspan
+         sodipodi:role="line"
+         id="tspan4137-9"
+         style="fill:#000000;stroke-width:5.665"
+         x="43.002529"
+         y="132.24605">Datos del cliente</tspan></text>
+    <rect
+       style="fill:#ff6600;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4141"
+       width="51.333546"
+       height="11.674013"
+       x="170.51456"
+       y="121.30093"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="171.94194"
+       y="125.78722"
+       id="text4145"><tspan
+         sodipodi:role="line"
+         id="tspan4143"
+         style="fill:#000000;stroke-width:5.665"
+         x="171.94194"
+         y="125.78722">producto</tspan></text>
+    <path
+       style="opacity:1;fill:#00ff00;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 170.54424,122.39197 -6.91936,-4.96774"
+       id="path4303" />
+    <rect
+       style="fill:#ff6600;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4562"
+       width="51.333546"
+       height="11.674013"
+       x="225.33714"
+       y="121.30093"
+       ry="2.6345429" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:5.66499;stroke-linecap:round;stroke-linejoin:round"
+       x="226.76451"
+       y="125.78722"
+       id="text4566"><tspan
+         sodipodi:role="line"
+         id="tspan4564"
+         style="fill:#000000;stroke-width:5.665"
+         x="226.76451"
+         y="125.78722">añadir al carrito</tspan></text>
+    <path
+       style="opacity:1;fill:#00ff00;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#TriangleStart)"
+       d="m 227.22972,129.57745 -7.89516,-0.0887"
+       id="path4570"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 253.41794,121.9417 0.12546,-8.15454 -89.82537,-0.62727"
+       id="path4670"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:#ff0000;stroke:#000000;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#marker8672)"
+       d="M 106.00899,133.10715 92.961731,132.98169"
+       id="path8668" />
+  </g>
+</svg>
