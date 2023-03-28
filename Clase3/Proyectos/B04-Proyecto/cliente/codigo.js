@@ -56,7 +56,7 @@ function dameMensajes(resultado){
         document.getElementById("mensajes").innerHTML += '<div class="yo">'+resultado[i].mensaje+'</div>'
     }
     console.log(document.getElementById("nuevomensaje").clientTop)
-        document.getElementById("mensajes").scrollTop =  10000
+        document.getElementById("mensajes").scrollTop =  100000000
 
     
 }
