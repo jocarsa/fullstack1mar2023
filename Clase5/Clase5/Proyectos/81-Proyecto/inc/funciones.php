@@ -214,30 +214,30 @@ function listadoBlog(){
 }
 function menuCargaPaginas(){
     
-                        // Me conecto a la base de datos
-                        $conexion = mysqli_connect("localhost", "usuariodb", "contrasenadb", "aplicacionweb");
+    // Me conecto a la base de datos
+    $conexion = mysqli_connect("localhost", "usuariodb", "contrasenadb", "aplicacionweb");
 
-                        // Configuro la conexión en utf8
-                        mysqli_set_charset($conexion, "utf8mb4");
+    // Configuro la conexión en utf8
+    mysqli_set_charset($conexion, "utf8mb4");
 
-                        // Preparo una petición a la base de datos
-                        $peticion = "
-                        SELECT * 
-                        FROM paginas
-                        ";
+    // Preparo una petición a la base de datos
+    $peticion = "
+    SELECT * 
+    FROM paginas
+    ";
 
-                        // Guardo la petición en un array
-                        $resultado = mysqli_query($conexion, $peticion);
-                        // Repaso el array y lo devuelvo por pantalla
-                        while ($fila = mysqli_fetch_assoc($resultado)) {
-                            echo '
-                                <li>
-                                    <a href="index.php?p='.$fila['Identificador'].'">
-                                        '.$fila['titulo'].'
-                                    </a>
-                                </li>
-                            ';
-                        }
+    // Guardo la petición en un array
+    $resultado = mysqli_query($conexion, $peticion);
+    // Repaso el array y lo devuelvo por pantalla
+    while ($fila = mysqli_fetch_assoc($resultado)) {
+        echo '
+            <li>
+                <a href="index.php?p='.$fila['Identificador'].'">
+                    '.$fila['titulo'].'
+                </a>
+            </li>
+        ';
+    }
 }
 
 ?>
