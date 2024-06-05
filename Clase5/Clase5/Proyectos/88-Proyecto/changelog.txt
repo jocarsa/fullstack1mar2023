@@ -1,0 +1,11 @@
+-Añadido option por defecto para select en crear
+-Añadido blog duplicando productos, en menu, en funciones y nueva página
+-Paginas personalizadas, modificado index
+-menu carga paginas, externalizar a funcion
+-cargar pagina en pagina principal, externalizado a funciones
+-capacidad de escritorio para el panel de control
+-graficas en el panel de control
+-averiguar el tipo de dato de la columna
+-tipos de dato en los formularios
+-ocultar carrito en el caso de que no compra
+-vaciar carrito en cualquier momento

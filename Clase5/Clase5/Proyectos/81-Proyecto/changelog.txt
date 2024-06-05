@@ -1,0 +1,4 @@
+-Añadido option por defecto para select en crear
+-Añadido blog duplicando productos, en menu, en funciones y nueva página
+-Paginas personalizadas, modificado index
+-menu carga paginas, externalizar a funcion
